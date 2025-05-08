@@ -28,7 +28,7 @@
  aqhstartdate2     = 030000,
  aqhperiod         = 21600.0,
 #
- precipstartdate1  = 20080101,
+ precipstartdate1  = 20170101,
  precipstartdate2  = 030000,
  precipperiod      = 21600.0,
 #
