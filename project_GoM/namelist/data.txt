@@ -36,8 +36,8 @@
 # Gridding parameters
  &PARM04
  usingSphericalPolarGrid=.TRUE.,
- delX=240*0.083333,
- delY=360*0.0625,
+ delX=400*0.0625,
+ delY=320*0.0625,
  xgOrigin=-135,
  ygOrigin=29,
  delR = 10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.00, 10.01,
@@ -50,7 +50,7 @@
 
 # Input datasets
  &PARM05
- bathyFile = 'CA_bathymetry.bin',
+ bathyFile = 'bathymetry.bin',
  hydrogThetaFile = 'THETA_IC.bin',
  hydrogSaltFile = 'SALT_IC.bin',
  uVelInitFile = 'UVEL_IC.bin',

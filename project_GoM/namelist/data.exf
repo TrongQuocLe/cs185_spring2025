@@ -20,11 +20,11 @@
  lwdownfile        = 'exf/LWDOWN',
 # runofffile        = 'exf/RUNOFF',
 #
- atempstartdate1   = 20080101,
+ atempstartdate1   = 20170101,
  atempstartdate2   = 030000,
  atempperiod       = 21600.0,
 #
- aqhstartdate1     = 20080101,
+ aqhstartdate1     = 20170101,
  aqhstartdate2     = 030000,
  aqhperiod         = 21600.0,
 #
@@ -32,23 +32,23 @@
  precipstartdate2  = 030000,
  precipperiod      = 21600.0,
 #
-# runoffstartdate1  = 20080101,
+# runoffstartdate1  = 20170101,
 # runoffstartdate2  = 030000,
 # runoffperiod      = 21600.0,
 #
- uwindstartdate1   = 20080101,
+ uwindstartdate1   = 20170101,
  uwindstartdate2   = 030000,
  uwindperiod       = 21600.0,
 #
- vwindstartdate1   = 20080101,
+ vwindstartdate1   = 20170101,
  vwindstartdate2   = 030000,
  vwindperiod       = 21600.0,
 #
- swdownstartdate1  = 20080101,
+ swdownstartdate1  = 20170101,
  swdownstartdate2  = 030000,
  swdownperiod      = 21600.0,
 #
- lwdownstartdate1  = 20080101,
+ lwdownstartdate1  = 20170101,
  lwdownstartdate2  = 030000,
  lwdownperiod      = 21600.0,
 #
