@@ -32,8 +32,8 @@
  OBNtFile = 'obcs/THETA_north',
 #
  OBEsFile = 'obcs/SALT_east',
-# OBSsFile = 'obcs/SALT_south',
- OBWsFile = 'obcs/SALT_west',
+ OBSsFile = 'obcs/SALT_south',
+# OBWsFile = 'obcs/SALT_west',
  OBNsFile = 'obcs/SALT_north',
 #
  &
