@@ -71,9 +71,9 @@
 
 
  &EXF_NML_OBCS
-# obcsEstartdate1     = 19920101,
-# obcsEstartdate2     = 120000,
-# obcsEperiod         = 2592000.0,
+ obcsEstartdate1     = 19920101,
+ obcsEstartdate2     = 120000,
+ obcsEperiod         = 2592000.0,
 #
  obcsSstartdate1     = 19920101,
  obcsSstartdate2     = 120000,
@@ -83,9 +83,9 @@
  obcsNstartdate2     = 120000,
  obcsNperiod         = 2592000.0,
 #
- obcsWstartdate1     = 19920101,
- obcsWstartdate2     = 120000,
- obcsWperiod         = 2592000.0,
+# obcsWstartdate1     = 19920101,
+# obcsWstartdate2     = 120000,
+# obcsWperiod         = 2592000.0,
 #
  useOBCSYearlyFields = .TRUE.,
 #
