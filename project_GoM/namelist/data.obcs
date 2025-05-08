@@ -16,25 +16,25 @@
  useOBCSprescribe = .TRUE.,
 #
 # identify files (uncomment as needed)
- OBEuFile = 'obcs/UVEL_east',
- OBSuFile = 'obcs/UVEL_south',
-# OBWuFile = 'obcs/UVEL_west',
- OBNuFile = 'obcs/UVEL_north',
+ OBEuFile = 'obcs/UVEL_east_2017',
+ OBSuFile = 'obcs/UVEL_south_2017',
+# OBWuFile = 'obcs/UVEL_west_2017',
+ OBNuFile = 'obcs/UVEL_north_2017',
 #
- OBEvFile = 'obcs/VVEL_east',
- OBSvFile = 'obcs/VVEL_south',
-# OBWvFile = 'obcs/VVEL_west',
- OBNvFile = 'obcs/VVEL_north',
+ OBEvFile = 'obcs/VVEL_east_2017',
+ OBSvFile = 'obcs/VVEL_south_2017',
+# OBWvFile = 'obcs/VVEL_west_2017',
+ OBNvFile = 'obcs/VVEL_north_2017',
 #
- OBEtFile = 'obcs/THETA_east',
- OBStFile = 'obcs/THETA_south',
-# OBWtFile = 'obcs/THETA_west',
- OBNtFile = 'obcs/THETA_north',
+ OBEtFile = 'obcs/THETA_east_2017',
+ OBStFile = 'obcs/THETA_south_2017',
+# OBWtFile = 'obcs/THETA_west_2017',
+ OBNtFile = 'obcs/THETA_north_2017',
 #
- OBEsFile = 'obcs/SALT_east',
- OBSsFile = 'obcs/SALT_south',
-# OBWsFile = 'obcs/SALT_west',
- OBNsFile = 'obcs/SALT_north',
+ OBEsFile = 'obcs/SALT_east_2017',
+ OBSsFile = 'obcs/SALT_south_2017',
+# OBWsFile = 'obcs/SALT_west_2017',
+ OBNsFile = 'obcs/SALT_north_2017',
 #
  &
 
