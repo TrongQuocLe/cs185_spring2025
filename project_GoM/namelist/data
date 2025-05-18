@@ -1,3 +1,4 @@
+
 # ====================
 # | Model parameters |
 # ====================
@@ -25,10 +26,10 @@
 
 # Time stepping parameters
  &PARM03
- niter0=0,
- deltaT=300.,
- nTimeSteps = 105120,
- pChkptFreq=2592000.,
+ niter0=216000,
+ deltaT=60.,
+ nTimeSteps = 525600,
+ pChkptFreq=1296000.,
  dumpInitAndLast=.FALSE.,
  writePickupAtEnd=.TRUE.,
  &
